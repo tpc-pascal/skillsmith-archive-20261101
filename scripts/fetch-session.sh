@@ -39,6 +39,9 @@ ASG_SHA="be9efc3ce7f31a79b698d95b4a93fee6178ce88b"
 L30_URL="https://github.com/mvanhorn/last30days-skill.git"
 L30_SHA="f3cd06a620e385ce15109ed6d3b70fc20c89eccc"
 
+AAS_URL="https://github.com/sickn33/agentic-awesome-skills.git"
+AAS_SHA="d6b7ae27c06c015f1bc47ba2d694d1eb9e1cdeaf"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
@@ -57,6 +60,7 @@ ppt-master|$PX_URL|$PX_SHA|skills/ppt-master
 taste-skill|$TS_URL|$TS_SHA|skills/taste-skill
 deep-research|$ASG_URL|$ASG_SHA|Anthropic/claude-code/skills/anthropic-skills/deep-research
 last30days|$L30_URL|$L30_SHA|skills/last30days
+efficient-web-research|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/efficient-web-research
 '
 
 OUT="" LICENSES_OUT="" PICK=()

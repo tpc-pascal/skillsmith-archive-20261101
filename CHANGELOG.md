@@ -21,6 +21,7 @@ This repository restarted its history on 2026-10-20. Commits, tags, and releases
 - `research/web`: Add session skill `taste-skill` from `Leonxlnx/taste-skill`, pinned by commit SHA.
 - `research/web`: Add session skill `deep-research` from `asgeirtj/system_prompts_leaks`, pinned by commit SHA.
 - `research/web`: Add session skill `last30days` from `mvanhorn/last30days-skill`, pinned by commit SHA.
+- `research/web`: Add session skill `efficient-web-research` from `sickn33/agentic-awesome-skills`, pinned by commit SHA.
 
 ## [v0.1.2] - 2026-11-01
 
