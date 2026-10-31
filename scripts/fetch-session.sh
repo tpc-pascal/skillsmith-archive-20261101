@@ -67,6 +67,7 @@ efficient-web-research|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/s
 wiki-researcher|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/wiki-researcher
 citation-verification|$GD_URL|$GD_SHA|skills/citation-verification
 tech-writing-proofread|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/tech-writing-proofread
+write-in-my-voice|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/write-in-my-voice
 '
 
 OUT="" LICENSES_OUT="" PICK=()

@@ -38,6 +38,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `wiki-researcher` | sickn33/agentic-awesome-skills | wiki research for `web` |
 | `citation-verification` | galaxy-dawn/claude-scholar | authority-ordered citation verification for `paper` |
 | `tech-writing-proofread` | sickn33/agentic-awesome-skills | technical writing proofreading for `paper` |
+| `write-in-my-voice` | sickn33/agentic-awesome-skills | author-voice drafting for `paper` |
 
 ## Install
 
