@@ -47,6 +47,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `academic-paper-reviewer` | Imbad0202/academic-research-skills | independent manuscript review for `paper` |
 | `academic-pipeline` | Imbad0202/academic-research-skills | coordinated academic writing workflow for `paper` |
 | `academic-deep-research` | Imbad0202/academic-research-skills | academic evidence synthesis for `paper` |
+| `sr-screener` | Imbad0202/academic-research-skills | systematic-review study screening for `paper` |
 
 ## Install
 

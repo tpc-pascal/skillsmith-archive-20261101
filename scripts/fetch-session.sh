@@ -85,6 +85,7 @@ academic-paper|$ARS_URL|$ARS_SHA|academic-paper
 academic-paper-reviewer|$ARS_URL|$ARS_SHA|academic-paper-reviewer
 academic-pipeline|$ARS_URL|$ARS_SHA|academic-pipeline
 academic-deep-research|$ARS_URL|$ARS_SHA|deep-research
+sr-screener|$ARS_URL|$ARS_SHA|sr-screener
 '
 
 OUT="" LICENSES_OUT="" PICK=()
