@@ -42,6 +42,9 @@ L30_SHA="f3cd06a620e385ce15109ed6d3b70fc20c89eccc"
 AAS_URL="https://github.com/sickn33/agentic-awesome-skills.git"
 AAS_SHA="d6b7ae27c06c015f1bc47ba2d694d1eb9e1cdeaf"
 
+GD_URL="https://github.com/galaxy-dawn/claude-scholar.git"
+GD_SHA="d394fb599ed9e6ea2212a9e6daa864345fe97a26"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
@@ -62,6 +65,7 @@ deep-research|$ASG_URL|$ASG_SHA|Anthropic/claude-code/skills/anthropic-skills/de
 last30days|$L30_URL|$L30_SHA|skills/last30days
 efficient-web-research|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/efficient-web-research
 wiki-researcher|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/wiki-researcher
+citation-verification|$GD_URL|$GD_SHA|skills/citation-verification
 '
 
 OUT="" LICENSES_OUT="" PICK=()

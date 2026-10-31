@@ -36,6 +36,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `last30days` | mvanhorn/last30days-skill | recent-signal discovery for `web` |
 | `efficient-web-research` | sickn33/agentic-awesome-skills | token-efficient research for `web` |
 | `wiki-researcher` | sickn33/agentic-awesome-skills | wiki research for `web` |
+| `citation-verification` | galaxy-dawn/claude-scholar | authority-ordered citation verification for `paper` |
 
 ## Install
 
