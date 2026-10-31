@@ -20,7 +20,7 @@ The repository currently ships one self-contained collection under `skills/` —
 |  | [`doc`](skills/research/doc/SKILL.md) | Read/convert PDF, DOCX, and XLSX | - [docling-project/docling](https://github.com/docling-project/docling) — `docling`<br>- [anthropics/skills](https://github.com/anthropics/skills) — `docx`, `pdf`<br>- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — `exploratory-data-analysis`, `statistical-analysis`, `matplotlib` |
 |  | [`media`](skills/research/media/SKILL.md) | Process video, audio, and images | - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) — `watch` |
 |  | [`web`](skills/research/web/SKILL.md) | Read and search online sources | - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — `agent-reach`<br>- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — `impeccable` |
-|  | [`paper`](skills/research/paper/SKILL.md) | Write international-standard or Vietnamese public-facing reports | - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — `citation-management`, `litreview` |
+|  | [`paper`](skills/research/paper/SKILL.md) | Write international-standard or Vietnamese public-facing reports | - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — `citation-management`, `litreview`<br>- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) — `ppt-master` |
 
 Third-party skills are fetched per session via `scripts/fetch-session.sh`, never installed permanently.
 

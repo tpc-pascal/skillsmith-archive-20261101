@@ -27,6 +27,9 @@ AX_SHA="25cf37080fc8b1dbe758a4efc3935b55f3327083"
 IM_URL="https://github.com/pbakaus/impeccable.git"
 IM_SHA="936867543ac2576920d663cc9803597f6044f3ac"
 
+PX_URL="https://github.com/hugohe3/ppt-master.git"
+PX_SHA="687a00affb5d65075f9904927d6212a6ffe1c0b7"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
@@ -41,6 +44,7 @@ statistical-analysis|$KS_URL|$KS_SHA|skills/statistical-analysis
 matplotlib|$KS_URL|$KS_SHA|skills/matplotlib
 archify|$AX_URL|$AX_SHA|archify
 impeccable|$IM_URL|$IM_SHA|.agents/skills/impeccable
+ppt-master|$PX_URL|$PX_SHA|skills/ppt-master
 '
 
 OUT="" LICENSES_OUT="" PICK=()

@@ -30,6 +30,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `matplotlib` | K-Dense-AI/scientific-agent-skills | standard charts for `doc` |
 | `archify` | tt-a1i/archify | code-backed diagrams and explainers for `orchestrator` |
 | `impeccable` | pbakaus/impeccable | system UI design language for `web` |
+| `ppt-master` | hugohe3/ppt-master | PPTX deck creation for `paper` |
 
 ## Install
 
