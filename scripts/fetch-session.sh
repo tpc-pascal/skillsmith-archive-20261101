@@ -51,6 +51,9 @@ CB_SHA="209815cdeb4af942616daec89a5e0a706c804e3a"
 HM_URL="https://github.com/blader/humanizer.git"
 HM_SHA="8c307f367c91bd974002f10f2be2965d642c13df"
 
+ARS_URL="https://github.com/Imbad0202/academic-research-skills.git"
+ARS_SHA="c43c529641daf9f5e464b1e001f31501286d6680"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
@@ -78,6 +81,7 @@ stakeholder-investor-reports|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-cl
 survey-generator|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/survey-generator
 avoid-ai-writing|$CB_URL|$CB_SHA|skills/avoid-ai-writing
 humanizer|$HM_URL|$HM_SHA|.
+academic-paper|$ARS_URL|$ARS_SHA|academic-paper
 '
 
 OUT="" LICENSES_OUT="" PICK=()

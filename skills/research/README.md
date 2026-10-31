@@ -43,6 +43,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `survey-generator` | sickn33/agentic-awesome-skills | source-backed survey papers for `paper` |
 | `avoid-ai-writing` | conorbronsdon/avoid-ai-writing | prose audit and AI-ism removal for `paper` |
 | `humanizer` | blader/humanizer | AI-sounding prose rewrites for `paper` |
+| `academic-paper` | Imbad0202/academic-research-skills | academic manuscript drafting for `paper` |
 
 ## Install
 
