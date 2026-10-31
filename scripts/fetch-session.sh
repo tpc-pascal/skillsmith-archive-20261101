@@ -36,6 +36,9 @@ TS_SHA="6010f91a9935f1c167dfc500fb1a475681892e6b"
 ASG_URL="https://github.com/asgeirtj/system_prompts_leaks.git"
 ASG_SHA="be9efc3ce7f31a79b698d95b4a93fee6178ce88b"
 
+L30_URL="https://github.com/mvanhorn/last30days-skill.git"
+L30_SHA="f3cd06a620e385ce15109ed6d3b70fc20c89eccc"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
@@ -53,6 +56,7 @@ impeccable|$IM_URL|$IM_SHA|.agents/skills/impeccable
 ppt-master|$PX_URL|$PX_SHA|skills/ppt-master
 taste-skill|$TS_URL|$TS_SHA|skills/taste-skill
 deep-research|$ASG_URL|$ASG_SHA|Anthropic/claude-code/skills/anthropic-skills/deep-research
+last30days|$L30_URL|$L30_SHA|skills/last30days
 '
 
 OUT="" LICENSES_OUT="" PICK=()

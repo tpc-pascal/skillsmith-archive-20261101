@@ -33,6 +33,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `ppt-master` | hugohe3/ppt-master | PPTX deck creation for `paper` |
 | `taste-skill` | Leonxlnx/taste-skill | HTML and one-page design quality checks for `web` |
 | `deep-research` | asgeirtj/system_prompts_leaks | deep-research workflow for `web` |
+| `last30days` | mvanhorn/last30days-skill | recent-signal discovery for `web` |
 
 ## Install
 
