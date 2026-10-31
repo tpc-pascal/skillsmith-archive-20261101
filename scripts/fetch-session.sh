@@ -84,6 +84,7 @@ humanizer|$HM_URL|$HM_SHA|.
 academic-paper|$ARS_URL|$ARS_SHA|academic-paper
 academic-paper-reviewer|$ARS_URL|$ARS_SHA|academic-paper-reviewer
 academic-pipeline|$ARS_URL|$ARS_SHA|academic-pipeline
+academic-deep-research|$ARS_URL|$ARS_SHA|deep-research
 '
 
 OUT="" LICENSES_OUT="" PICK=()
