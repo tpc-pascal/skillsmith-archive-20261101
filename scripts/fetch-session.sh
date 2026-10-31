@@ -24,6 +24,7 @@ watch|$WATCH_URL|$WATCH_SHA|skills/watch
 agent-reach|$AGENTREACH_URL|$AGENTREACH_SHA|agent_reach/skill
 docling|$DOCLING_URL|$DOCLING_SHA|docling/.agents/skills/docling
 docx|$AS_URL|$AS_SHA|skills/docx
+pdf|$AS_URL|$AS_SHA|skills/pdf
 '
 
 OUT="" LICENSES_OUT="" PICK=()
