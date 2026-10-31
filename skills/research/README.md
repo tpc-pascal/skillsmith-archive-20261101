@@ -35,6 +35,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `deep-research` | asgeirtj/system_prompts_leaks | deep-research workflow for `web` |
 | `last30days` | mvanhorn/last30days-skill | recent-signal discovery for `web` |
 | `efficient-web-research` | sickn33/agentic-awesome-skills | token-efficient research for `web` |
+| `wiki-researcher` | sickn33/agentic-awesome-skills | wiki research for `web` |
 
 ## Install
 
