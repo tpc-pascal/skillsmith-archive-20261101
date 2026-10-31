@@ -40,6 +40,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `tech-writing-proofread` | sickn33/agentic-awesome-skills | technical writing proofreading for `paper` |
 | `write-in-my-voice` | sickn33/agentic-awesome-skills | author-voice drafting for `paper` |
 | `stakeholder-investor-reports` | sickn33/agentic-awesome-skills | investor and board reports for `paper` |
+| `survey-generator` | sickn33/agentic-awesome-skills | source-backed survey papers for `paper` |
 
 ## Install
 
