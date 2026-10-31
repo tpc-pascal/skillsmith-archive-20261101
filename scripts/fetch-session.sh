@@ -82,6 +82,7 @@ survey-generator|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/
 avoid-ai-writing|$CB_URL|$CB_SHA|skills/avoid-ai-writing
 humanizer|$HM_URL|$HM_SHA|.
 academic-paper|$ARS_URL|$ARS_SHA|academic-paper
+academic-paper-reviewer|$ARS_URL|$ARS_SHA|academic-paper-reviewer
 '
 
 OUT="" LICENSES_OUT="" PICK=()
