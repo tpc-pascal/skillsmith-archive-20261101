@@ -18,13 +18,10 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 
 | Skill | Source | Used for |
 |---|---|---|
-
 | `watch` | bradautomates/claude-video | media content summaries for `media` |
-
 | `agent-reach` | Panniantong/Agent-Reach | web, social, and search backends for `web` |
-
 | `docling` | docling-project/docling | PDF and DOCX conversion for `doc` |
-
+| `docx` | anthropics/skills | styled DOCX export for `doc` |
 ## Install
 
 ```bash

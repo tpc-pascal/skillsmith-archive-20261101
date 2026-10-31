@@ -6,6 +6,9 @@ This repository restarted its history on 2026-10-20. Commits, tags, and releases
 
 ## [Unreleased]
 
+### Added
+
+- `research/doc`: Add session skill `docx` from `anthropics/skills`, pinned by commit SHA.
 ## [v0.1.2] - 2026-11-01
 
 ### Added

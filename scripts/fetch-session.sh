@@ -15,11 +15,15 @@ AGENTREACH_SHA="14c213405669414492bda0f8d52cc6531d062c45"
 DOCLING_URL="https://github.com/docling-project/docling.git"
 DOCLING_SHA="764b5d4dc22b03ea87afd4c2207f510300b27a5b"
 
+AS_URL="https://github.com/anthropics/skills.git"
+AS_SHA="dbd4588f9e1033efb41dad4bef2f7947c8993d44"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
 agent-reach|$AGENTREACH_URL|$AGENTREACH_SHA|agent_reach/skill
 docling|$DOCLING_URL|$DOCLING_SHA|docling/.agents/skills/docling
+docx|$AS_URL|$AS_SHA|skills/docx
 '
 
 OUT="" LICENSES_OUT="" PICK=()
