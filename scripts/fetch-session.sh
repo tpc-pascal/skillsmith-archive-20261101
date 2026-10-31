@@ -29,6 +29,7 @@ docling|$DOCLING_URL|$DOCLING_SHA|docling/.agents/skills/docling
 docx|$AS_URL|$AS_SHA|skills/docx
 pdf|$AS_URL|$AS_SHA|skills/pdf
 citation-management|$KS_URL|$KS_SHA|skills/citation-management
+litreview|$KS_URL|$KS_SHA|skills/literature-review
 '
 
 OUT="" LICENSES_OUT="" PICK=()
