@@ -31,6 +31,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `archify` | tt-a1i/archify | code-backed diagrams and explainers for `orchestrator` |
 | `impeccable` | pbakaus/impeccable | system UI design language for `web` |
 | `ppt-master` | hugohe3/ppt-master | PPTX deck creation for `paper` |
+| `taste-skill` | Leonxlnx/taste-skill | HTML and one-page design quality checks for `web` |
 
 ## Install
 

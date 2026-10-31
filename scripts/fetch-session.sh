@@ -30,6 +30,9 @@ IM_SHA="936867543ac2576920d663cc9803597f6044f3ac"
 PX_URL="https://github.com/hugohe3/ppt-master.git"
 PX_SHA="687a00affb5d65075f9904927d6212a6ffe1c0b7"
 
+TS_URL="https://github.com/Leonxlnx/taste-skill.git"
+TS_SHA="6010f91a9935f1c167dfc500fb1a475681892e6b"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
@@ -45,6 +48,7 @@ matplotlib|$KS_URL|$KS_SHA|skills/matplotlib
 archify|$AX_URL|$AX_SHA|archify
 impeccable|$IM_URL|$IM_SHA|.agents/skills/impeccable
 ppt-master|$PX_URL|$PX_SHA|skills/ppt-master
+taste-skill|$TS_URL|$TS_SHA|skills/taste-skill
 '
 
 OUT="" LICENSES_OUT="" PICK=()
