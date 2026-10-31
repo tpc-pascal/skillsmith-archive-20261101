@@ -15,6 +15,7 @@ This repository restarted its history on 2026-10-20. Commits, tags, and releases
 - `research/doc`: Add session skill `exploratory-data-analysis` from `K-Dense-AI/scientific-agent-skills`, pinned by commit SHA.
 - `research/doc`: Add session skill `statistical-analysis` from `K-Dense-AI/scientific-agent-skills`, pinned by commit SHA.
 - `research/doc`: Add session skill `matplotlib` from `K-Dense-AI/scientific-agent-skills`, pinned by commit SHA.
+- `research/orchestrator`: Add session skill `archify` from `tt-a1i/archify`, pinned by commit SHA.
 
 ## [v0.1.2] - 2026-11-01
 
