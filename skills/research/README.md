@@ -32,6 +32,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `impeccable` | pbakaus/impeccable | system UI design language for `web` |
 | `ppt-master` | hugohe3/ppt-master | PPTX deck creation for `paper` |
 | `taste-skill` | Leonxlnx/taste-skill | HTML and one-page design quality checks for `web` |
+| `deep-research` | asgeirtj/system_prompts_leaks | deep-research workflow for `web` |
 
 ## Install
 
