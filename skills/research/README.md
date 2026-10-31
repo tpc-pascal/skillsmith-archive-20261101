@@ -29,6 +29,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `statistical-analysis` | K-Dense-AI/scientific-agent-skills | statistical method selection for `doc` |
 | `matplotlib` | K-Dense-AI/scientific-agent-skills | standard charts for `doc` |
 | `archify` | tt-a1i/archify | code-backed diagrams and explainers for `orchestrator` |
+| `impeccable` | pbakaus/impeccable | system UI design language for `web` |
 
 ## Install
 
