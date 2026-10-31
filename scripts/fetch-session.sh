@@ -45,6 +45,9 @@ AAS_SHA="d6b7ae27c06c015f1bc47ba2d694d1eb9e1cdeaf"
 GD_URL="https://github.com/galaxy-dawn/claude-scholar.git"
 GD_SHA="d394fb599ed9e6ea2212a9e6daa864345fe97a26"
 
+CB_URL="https://github.com/conorbronsdon/avoid-ai-writing.git"
+CB_SHA="209815cdeb4af942616daec89a5e0a706c804e3a"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
@@ -70,6 +73,7 @@ tech-writing-proofread|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/s
 write-in-my-voice|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/write-in-my-voice
 stakeholder-investor-reports|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/stakeholder-investor-reports
 survey-generator|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/survey-generator
+avoid-ai-writing|$CB_URL|$CB_SHA|skills/avoid-ai-writing
 '
 
 OUT="" LICENSES_OUT="" PICK=()

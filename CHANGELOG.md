@@ -28,6 +28,7 @@ This repository restarted its history on 2026-10-20. Commits, tags, and releases
 - `research/paper`: Add session skill `write-in-my-voice` from `sickn33/agentic-awesome-skills`, pinned by commit SHA.
 - `research/paper`: Add session skill `stakeholder-investor-reports` from `sickn33/agentic-awesome-skills`, pinned by commit SHA.
 - `research/paper`: Add session skill `survey-generator` from `sickn33/agentic-awesome-skills`, pinned by commit SHA.
+- `research/paper`: Add session skill `avoid-ai-writing` from `conorbronsdon/avoid-ai-writing`, pinned by commit SHA.
 
 ## [v0.1.2] - 2026-11-01
 

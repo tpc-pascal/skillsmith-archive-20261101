@@ -41,6 +41,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `write-in-my-voice` | sickn33/agentic-awesome-skills | author-voice drafting for `paper` |
 | `stakeholder-investor-reports` | sickn33/agentic-awesome-skills | investor and board reports for `paper` |
 | `survey-generator` | sickn33/agentic-awesome-skills | source-backed survey papers for `paper` |
+| `avoid-ai-writing` | conorbronsdon/avoid-ai-writing | prose audit and AI-ism removal for `paper` |
 
 ## Install
 
