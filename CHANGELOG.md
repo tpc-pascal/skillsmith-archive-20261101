@@ -32,6 +32,7 @@ This repository restarted its history on 2026-10-20. Commits, tags, and releases
 - `research/paper`: Add session skill `humanizer` from `blader/humanizer`, pinned by commit SHA.
 - `research/paper`: Add session skill `academic-paper` from `Imbad0202/academic-research-skills`, pinned by commit SHA.
 - `research/paper`: Add session skill `academic-paper-reviewer` from `Imbad0202/academic-research-skills`, pinned by commit SHA.
+- `research/paper`: Add session skill `academic-pipeline` from `Imbad0202/academic-research-skills`, pinned by commit SHA.
 
 ## [v0.1.2] - 2026-11-01
 
