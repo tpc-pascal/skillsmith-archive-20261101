@@ -48,6 +48,9 @@ GD_SHA="d394fb599ed9e6ea2212a9e6daa864345fe97a26"
 CB_URL="https://github.com/conorbronsdon/avoid-ai-writing.git"
 CB_SHA="209815cdeb4af942616daec89a5e0a706c804e3a"
 
+HM_URL="https://github.com/blader/humanizer.git"
+HM_SHA="8c307f367c91bd974002f10f2be2965d642c13df"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
@@ -74,6 +77,7 @@ write-in-my-voice|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills
 stakeholder-investor-reports|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/stakeholder-investor-reports
 survey-generator|$AAS_URL|$AAS_SHA|plugins/agentic-awesome-skills-claude/skills/survey-generator
 avoid-ai-writing|$CB_URL|$CB_SHA|skills/avoid-ai-writing
+humanizer|$HM_URL|$HM_SHA|.
 '
 
 OUT="" LICENSES_OUT="" PICK=()
