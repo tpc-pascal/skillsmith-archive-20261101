@@ -23,6 +23,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `docling` | docling-project/docling | PDF and DOCX conversion for `doc` |
 | `docx` | anthropics/skills | styled DOCX export for `doc` |
 | `pdf` | anthropics/skills | styled PDF export for `doc` |
+| `citation-management` | K-Dense-AI/scientific-agent-skills | citation capture and management for `paper` |
 
 ## Install
 

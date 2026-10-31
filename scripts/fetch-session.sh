@@ -18,6 +18,9 @@ DOCLING_SHA="764b5d4dc22b03ea87afd4c2207f510300b27a5b"
 AS_URL="https://github.com/anthropics/skills.git"
 AS_SHA="dbd4588f9e1033efb41dad4bef2f7947c8993d44"
 
+KS_URL="https://github.com/K-Dense-AI/scientific-agent-skills.git"
+KS_SHA="593377bb048752abb0152deab9fbb1083a6087df"
+
 # name|url|sha|skill path in the repo
 TABLE='
 watch|$WATCH_URL|$WATCH_SHA|skills/watch
@@ -25,6 +28,7 @@ agent-reach|$AGENTREACH_URL|$AGENTREACH_SHA|agent_reach/skill
 docling|$DOCLING_URL|$DOCLING_SHA|docling/.agents/skills/docling
 docx|$AS_URL|$AS_SHA|skills/docx
 pdf|$AS_URL|$AS_SHA|skills/pdf
+citation-management|$KS_URL|$KS_SHA|skills/citation-management
 '
 
 OUT="" LICENSES_OUT="" PICK=()
