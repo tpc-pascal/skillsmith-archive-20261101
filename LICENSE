@@ -33,4 +33,31 @@ Review the upstream terms before redistributing any fetched skill.
 - `watch` — https://github.com/bradautomates/claude-video at `03ceb42f7fa2c4439aca01752118044baabffb8f` — MIT
 - `agent-reach` — https://github.com/Panniantong/Agent-Reach at `14c213405669414492bda0f8d52cc6531d062c45` — upstream LICENSE: MIT License
 - `docling` — https://github.com/docling-project/docling at `764b5d4dc22b03ea87afd4c2207f510300b27a5b` — MIT
+- `docx` — https://github.com/anthropics/skills at `ca45fc496a3436251f191354091d557da31c15b5` — Proprietary. LICENSE.txt has complete terms
+- `pdf` — https://github.com/anthropics/skills at `ca45fc496a3436251f191354091d557da31c15b5` — Proprietary. LICENSE.txt has complete terms
+- `citation-management` — https://github.com/K-Dense-AI/scientific-agent-skills at `5f2bc0341354fd5590aef76a533ada1e1e5b4e62` — MIT License
+- `litreview` — https://github.com/K-Dense-AI/scientific-agent-skills at `5f2bc0341354fd5590aef76a533ada1e1e5b4e62` — MIT license
+- `exploratory-data-analysis` — https://github.com/K-Dense-AI/scientific-agent-skills at `5f2bc0341354fd5590aef76a533ada1e1e5b4e62` — MIT
+- `statistical-analysis` — https://github.com/K-Dense-AI/scientific-agent-skills at `5f2bc0341354fd5590aef76a533ada1e1e5b4e62` — MIT license
+- `matplotlib` — https://github.com/K-Dense-AI/scientific-agent-skills at `5f2bc0341354fd5590aef76a533ada1e1e5b4e62` — https://github.com/matplotlib/matplotlib/tree/main/LICENSE
+- `archify` — https://github.com/tt-a1i/archify at `a4065941f12be7967436261d9934784e381d423c` — Apache-2.0
+- `impeccable` — https://github.com/pbakaus/impeccable at `4f956490f0056ae1ff5ea80372cf56e83c001d3c` — upstream LICENSE: Apache License
+- `ppt-master` — https://github.com/hugohe3/ppt-master at `5e8856be0da8e6bc85c4aa28acc614478f7b7137` — upstream LICENSE: MIT License
+- `taste-skill` — https://github.com/Leonxlnx/taste-skill at `12af471f627f866411b4bd785b19646d3672784c` — upstream LICENSE: MIT License
+- `deep-research` — https://github.com/asgeirtj/system_prompts_leaks at `50a261ebbea7942fa98254a583d02434fdfd03e7` — upstream LICENSE: Creative Commons Legal Code
+- `last30days` — https://github.com/mvanhorn/last30days-skill at `7efc0ef764765ed9ceff5ce1204462b35b89d680` — MIT
+- `efficient-web-research` — https://github.com/sickn33/agentic-awesome-skills at `1ed5976b000fc0df2910d32ed33717794da1bee2` — upstream LICENSE: MIT License
+- `wiki-researcher` — https://github.com/sickn33/agentic-awesome-skills at `1ed5976b000fc0df2910d32ed33717794da1bee2` — upstream LICENSE: MIT License
+- `citation-verification` — https://github.com/galaxy-dawn/claude-scholar at `d394fb599ed9e6ea2212a9e6daa864345fe97a26` — upstream LICENSE: MIT License
+- `tech-writing-proofread` — https://github.com/sickn33/agentic-awesome-skills at `1ed5976b000fc0df2910d32ed33717794da1bee2` — MIT
+- `write-in-my-voice` — https://github.com/sickn33/agentic-awesome-skills at `1ed5976b000fc0df2910d32ed33717794da1bee2` — MIT
+- `stakeholder-investor-reports` — https://github.com/sickn33/agentic-awesome-skills at `1ed5976b000fc0df2910d32ed33717794da1bee2` — upstream LICENSE: MIT License
+- `survey-generator` — https://github.com/sickn33/agentic-awesome-skills at `1ed5976b000fc0df2910d32ed33717794da1bee2` — MIT
+- `avoid-ai-writing` — https://github.com/conorbronsdon/avoid-ai-writing at `9cd07215982eca9736e14caaa63241c0264856f3` — MIT
+- `humanizer` — https://github.com/blader/humanizer at `0ef9fe5bc3572734fd3ae6c448fe00a30cd5dcf0` — MIT
+- `academic-paper` — https://github.com/Imbad0202/academic-research-skills at `f2d109ea815f4b2f68a2eeee1ed9630bfc0cb302` — upstream LICENSE: Copyright (c) 2026 Cheng-I Wu
+- `academic-paper-reviewer` — https://github.com/Imbad0202/academic-research-skills at `f2d109ea815f4b2f68a2eeee1ed9630bfc0cb302` — upstream LICENSE: Copyright (c) 2026 Cheng-I Wu
+- `academic-pipeline` — https://github.com/Imbad0202/academic-research-skills at `f2d109ea815f4b2f68a2eeee1ed9630bfc0cb302` — upstream LICENSE: Copyright (c) 2026 Cheng-I Wu
+- `academic-deep-research` — https://github.com/Imbad0202/academic-research-skills at `f2d109ea815f4b2f68a2eeee1ed9630bfc0cb302` — upstream LICENSE: Copyright (c) 2026 Cheng-I Wu
+- `sr-screener` — https://github.com/Imbad0202/academic-research-skills at `f2d109ea815f4b2f68a2eeee1ed9630bfc0cb302` — upstream LICENSE: Copyright (c) 2026 Cheng-I Wu
 <!-- END THIRD-PARTY SKILL LICENSES -->
