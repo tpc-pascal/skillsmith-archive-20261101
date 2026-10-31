@@ -30,6 +30,7 @@ docx|$AS_URL|$AS_SHA|skills/docx
 pdf|$AS_URL|$AS_SHA|skills/pdf
 citation-management|$KS_URL|$KS_SHA|skills/citation-management
 litreview|$KS_URL|$KS_SHA|skills/literature-review
+exploratory-data-analysis|$KS_URL|$KS_SHA|skills/exploratory-data-analysis
 '
 
 OUT="" LICENSES_OUT="" PICK=()

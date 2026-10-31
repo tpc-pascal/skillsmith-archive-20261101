@@ -25,6 +25,7 @@ Third-party skills are fetched with `scripts/fetch-session.sh` (URL + commit-SHA
 | `pdf` | anthropics/skills | styled PDF export for `doc` |
 | `citation-management` | K-Dense-AI/scientific-agent-skills | citation capture and management for `paper` |
 | `litreview` | K-Dense-AI/scientific-agent-skills | literature review and source scoring for `paper` |
+| `exploratory-data-analysis` | K-Dense-AI/scientific-agent-skills | data exploration methodology and checks for `doc` |
 
 ## Install
 
