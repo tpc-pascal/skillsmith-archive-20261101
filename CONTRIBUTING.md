@@ -13,9 +13,9 @@
 2. Document the collection and its skills in `README.md`.
 3. Run `bash scripts/smoke.sh`, then open a PR.
 
-## Third-party session skills
+## Commit and release conventions
 
-Add each upstream skill in its own commit, in introduction order, using the scope format documented in [`AGENTS.md`](AGENTS.md). Include the pinned fetch mapping, relevant catalog and usage documentation, and a changelog entry in that commit. Do not copy upstream skill files into this repository.
+For commit format, third-party session skill changes, and release workflow, follow the canonical [commit and release conventions](docs/commit-conventions.md).
 
 ## Workflow symbols
 

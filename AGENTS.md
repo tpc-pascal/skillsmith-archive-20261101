@@ -8,6 +8,7 @@ A repository collecting agent skill sets. Shared collections live under root `sk
 - The skill list of each collection and how to install: see that collection's `README.md` (e.g. [`skills/research/README.md`](skills/research/README.md)).
 - Mandatory: every new skill collection must live under `skills/<collection>/<skill>/` — no collections at repo root. `scripts/smoke.sh` fails if any `SKILL.md` is found outside `skills/`.
 - Shared skills are the canonical source. OpenCode discovers them through `.agents/skills/`, whose entries link directly to the matching `skills/<collection>/<skill>/`. Keep the discovery links aligned with the collection sources; do not maintain duplicate skill content.
+- Collections are independent: do not add cross-collection routing, references, or install dependencies.
 
 ## Skill file structure
 
@@ -43,20 +44,9 @@ Length: keep `SKILL.md` lean — it loads on every session, so aim for ~45 lines
 - URLs, search, APIs, third-party skill downloads, and external renderers require connectivity. Do not describe them as offline-capable unless the repository has a real local cache/backend.
 - Do not send input to external services through automatic fallback. Network backends must be explicitly selected, and that dependency must be disclosed.
 
-## History
+## Commit and release conventions
 
-- Follow Conventional Commits for all changes.
-- For commits materially assisted by Pascal Automation Agent, include `Co-authored-by: pascal-automation-agent[bot] <348848148+pascal-automation-agent[bot]@users.noreply.github.com>` so GitHub can attribute the bot as a co-author.
-- Add each third-party session skill in exactly one `feat` commit, in the order skills are introduced. Use `feat(<collection>:<folder>:<third-party-skill>): add <source>/<skill> session skill`; for example, `feat(research:media:watch): add bradautomates/claude-video session skill`.
-- Keep that skill's fetch mapping, pin (when first using an upstream), catalog entries, relevant usage guidance, and changelog note together in its commit. A commit must not add multiple third-party skills.
-- Do not impose a fixed total commit count or rewrite published history unless explicitly requested.
-
-## Releases
-
-- Collections are independent: no cross-collection routing, references, or install dependencies between them.
-- Each third-party skill addition lands in its own `feat` commit (see History), and updates `CHANGELOG.md` in that same commit.
-- Third-party attribution (frontmatter `origin:` and the reference distilled-from note) rides the same fold as the skill content it describes — never a standalone commit.
-- Releases follow SemVer only: move the `[Unreleased]` CHANGELOG entries into a `## [vX.Y.Z] - date` section, commit, then run `scripts/release.sh vX.Y.Z`; the pushed tag triggers the release workflow, whose notes come from that CHANGELOG section. There are no collection- or skill-level tags.
+See the canonical [commit and release conventions](docs/commit-conventions.md).
 
 ## Checks
 
