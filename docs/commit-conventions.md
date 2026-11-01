@@ -52,8 +52,7 @@ Never add `Co-authored-by: Copilot`.
 
 - Keep each logically independent change in its own commit; do not enforce a fixed total commit count.
 - Add each third-party session skill in exactly one `feat` commit, in the order the skills are introduced. A commit must not add multiple third-party skills.
-- Include the skill's pinned fetch mapping, pin when first using an upstream, relevant catalog and usage documentation, and `CHANGELOG.md` entry in that skill's commit. Do not copy fetched upstream skill files into this repository.
-- Keep upstream attribution metadata and the distilled-from reference note in the same commit as the adapted skill; do not create a standalone attribution commit.
+- Include the skill's pinned fetch mapping, pin when first using an upstream, relevant catalog and usage documentation, and `CHANGELOG.md` entry in that skill's commit.
 - Fold a correction into the related change when it is tightly coupled, rather than leaving an unnecessary standalone fix commit.
 - Do not rewrite published history unless explicitly requested.
 

@@ -1,21 +1,10 @@
 # Contributing
 
-1. Fork and create a feature branch.
-2. Keep third-party skills out of the repo (they are fetched per session via `scripts/fetch-session.sh`).
-   Follow the file structure template in [`AGENTS.md`](AGENTS.md) — the "Skill file structure" section.
-3. Run `bash scripts/smoke.sh` — it must pass.
+1. Fork the repository and create a feature branch.
+2. Follow the [repository conventions](docs/repository-conventions.md) for the content being changed and the [commit and release conventions](docs/commit-conventions.md) for commits and releases.
+3. Run `bash scripts/smoke.sh` and ensure it passes.
 4. Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
-5. Open a PR with a short description of the change.
-
-## Adding a collection
-
-1. Create `skills/<collection>/<skill>/SKILL.md` (frontmatter `name`/`description`/`license`).
-2. Document the collection and its skills in `README.md`.
-3. Run `bash scripts/smoke.sh`, then open a PR.
-
-## Commit and release conventions
-
-For commit format, third-party session skill changes, and release workflow, follow the canonical [commit and release conventions](docs/commit-conventions.md).
+5. Open a pull request describing the change.
 
 ## Workflow symbols
 
