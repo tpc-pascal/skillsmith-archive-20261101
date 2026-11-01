@@ -4,10 +4,14 @@ All notable changes to this repository are documented here. The format follows [
 
 This repository restarted its history on 2026-10-20. Commits, tags, and releases from before the restart were removed from GitHub and are kept only in the maintainer's local git refs.
 
-## [Unreleased]
+## [v0.2.0] - 2026-11-01
 
 ### Added
 
+- Consolidate the third-party skill additions previously listed in `v0.1.0`, `v0.1.1`, and `v0.1.2` into this release.
+- `research/media`: Add session skill `watch` from `bradautomates/claude-video`, pinned by commit SHA.
+- `research/web`: Add session skill `agent-reach` from `Panniantong/Agent-Reach`, pinned by commit SHA.
+- `research/doc`: Add session skill `docling` from `docling-project/docling`, pinned by commit SHA.
 - `research/doc`: Add session skill `docx` from `anthropics/skills`, pinned by commit SHA.
 - `research/doc`: Add session skill `pdf` from `anthropics/skills`, pinned by commit SHA.
 - `research/paper`: Add session skill `citation-management` from `K-Dense-AI/scientific-agent-skills`, pinned by commit SHA.
@@ -36,23 +40,9 @@ This repository restarted its history on 2026-10-20. Commits, tags, and releases
 - `research/paper`: Add session skill `academic-deep-research` from `Imbad0202/academic-research-skills`, pinned by commit SHA.
 - `research/paper`: Add session skill `sr-screener` from `Imbad0202/academic-research-skills`, pinned by commit SHA.
 
-## [v0.1.2] - 2026-11-01
+### Notes
 
-### Added
-
-- `research/doc`: Add session skill `docling` from `docling-project/docling`, pinned by commit SHA.
-
-## [v0.1.1] - 2026-11-01
-
-### Added
-
-- `research/web`: Add session skill `agent-reach` from `Panniantong/Agent-Reach`, pinned by commit SHA.
-
-## [v0.1.0] - 2026-11-01
-
-### Added
-
-- `research/media`: Add session skill `watch` from `bradautomates/claude-video`, pinned by commit SHA.
+- Third-party skills remain fetched per session and are not redistributed. Review the upstream license declarations before use.
 
 ## [Repository baseline] - 2026-10-20
 
