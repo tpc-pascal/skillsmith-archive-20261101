@@ -2,7 +2,7 @@
 
 1. Fork the repository and create a feature branch.
 2. Follow the [repository conventions](docs/repository-conventions.md) for the content being changed and the [commit and release conventions](docs/commit-conventions.md) for commits and releases.
-3. Run `bash scripts/smoke.sh` and ensure it passes.
+3. Follow the [validation requirements](docs/repository-conventions.md#validation).
 4. Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 5. Open a pull request describing the change.
 
